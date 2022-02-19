@@ -1,9 +1,7 @@
 # Lab2
 This is my work for LAB-2 which involves building ML models for Breast Cancer Wisconsin (Diagnostic) Data set.
+The dataset was downloaded from kaggle.
+Basic EDA was done to understand the nature of data and it's variables , few visualizations have been used to make things look simple. All variables deemed unnecesaary after performing correlation matrix check were dropped.
+As required Logistic regression ML model was implemented followed by a model of my choice i.e. KNN.
+Their accuracy performances were close with LR predicting with an accuracy of 96.5% and KNN with an accuracy of 92.98 which was enhanced to 93.85 at k=9 while resolving our issue request.  
 
-![lab2ss3](https://user-images.githubusercontent.com/93827351/154783868-5f35fff8-b51c-49f6-b426-0ed2aed0f78e.jpg)
-
-Following are the screenshots to satisfy step 5 requirement.
-![lab2ss1](https://user-images.githubusercontent.com/93827351/154784199-5ba2e754-4070-47f8-a47d-45710462e78d.jpg)
-![lab2ss2](https://user-images.githubusercontent.com/93827351/154784202-ad236667-6c76-400c-bd07-c6f5a5cbc40d.jpg)
-![lab2ss3](https://user-images.githubusercontent.com/93827351/154784207-69d483c7-a288-4847-b358-713e43321bb1.jpg)
